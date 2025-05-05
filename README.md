@@ -1,6 +1,6 @@
 # Python Discord Femboy Bot
 
-# This is a work in progress so i will be making this bettre over time
+# This is a work in progress so i will be making this better over time
 To start the bot you simply need to launch, either your terminal (Linux, Mac & Windows), or your Command Prompt (
 Windows)
 .
